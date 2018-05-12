@@ -1,0 +1,210 @@
+
+
+body {
+    background-color: #F5FAF5;
+}
+
+
+#butter {
+    border: none;
+    position: absolute;
+    top: 150px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+
+}
+
+#menu {
+    font-family: Avenir Next, Arial;
+    font-size: 12px;
+    text-decoration: none;
+    top: 70px;
+    right: 755px;
+    display: inline-block;
+    color: darkolivegreen;
+    position: absolute;
+
+}
+#menu a{
+    display:inline-block;
+    padding-right: 20px;
+    color: dimgrey;
+}
+
+#logo {
+    position: absolute;
+    top: 25px;
+    left: 50px;
+    height: 65px;
+    width: 199px;
+    z-index: 100;
+}
+a {
+    text-decoration: none;
+    color: steelblue;
+}
+
+a:hover {
+    color: darkolivegreen;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+#exhibtitlesmall {
+    font-size: 40px;
+    color: #1C1B1B;
+    height: 60px;
+    width: 400px;
+    left: 45%;
+    position: absolute;
+    top: 720px;
+    font-family: Avenir Next Condensed, Arial;
+
+
+}
+#exhibtitle {
+    font-size: 60px;
+    color: #1C1B1B;
+    height: 80px;
+    width: 150px;
+    left: 40%;
+    position: absolute;
+    top: 750px;
+    font-family: Avenir Next Condensed, Arial;
+    font-weight: bold;
+
+}
+
+
+
+.titles{
+    font-family: Avenir Next Condensed, Arial;
+    font-size: 35px;
+    height: 100px;
+    width: 500px;
+    position: absolute;
+    top: 1090px;
+    left: 130px;
+
+
+
+}
+
+.paras{
+    font-family: Avenir Next Condensed, Arial;
+    font-size: 14px;
+    height: 200px;
+    width: 400px;
+    top: 1175px;
+    left: 130px;
+    position: absolute;
+
+}
+
+#paras1{
+    font-family: Avenir Next Condensed, Arial;
+    font-size: 14px;
+    height: 300px;
+    width: 280px;
+    position: absolute;
+    top: 1650px;
+    left: 550px;
+
+
+
+}
+
+#titles1{
+    font-family: Avenir Next Condensed, Arial;
+    font-size: 35px;
+    height: 200px;
+    width: 800px;
+    top: 1550px;
+    left: 350px;
+    position: absolute;
+
+}
+
+
+#graybottombox {
+    width: 1440px;
+    height: 300px;
+    position: absolute;
+    left: 0px;
+    top: 2000px;
+    background-color: wheat;
+    color: white;
+    font-family: Avenir Avenir Next Condensed, Arial;
+
+
+}
+
+#exhibitionvideo {
+    height: 300px;
+    width: 490px;
+    position: absolute;
+    top: 1070px;
+    right: 130px;
+    border: none;
+
+
+
+}
+/* green bg i liked #A9D3C2 */
+
+#logobottom {
+    width:  160px;
+    height: 50px;
+    position: absolute;
+    left: 100px;
+    top: 40px;
+    color: white;
+
+}
+
+#threelinks {
+    width:  200px;
+    height: 200px;
+    position: absolute;
+    left: 390px;
+    top: 40px;
+    color: dimgray;
+    background-color: transparent;
+
+}
+
+#linksrow2 {
+    width:  200px;
+    height: 200px;
+    position: absolute;
+    left: 720px;
+    top: 40px;
+    color: dimgray;
+    background-color: transparent;
+
+}
+
+#linksrow3 {
+    width:  200px;
+    height: 200px;
+    position: absolute;
+    left: 1060px;
+    top: 40px;
+    color: dimgray;
+    background-color: transparent;
+
+}
+
+.bottomlinks {
+    font-family: Avenir Next Condensed,arial;
+    font-size: 12px;
+}
+
+.menu {
+    display: block;
+    width: 50px;
+    height: 50px;
+    background: red;
+}

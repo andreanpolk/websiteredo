@@ -1,0 +1,404 @@
+#menu {
+    font-family: Avenir Next, Arial;
+    font-size: 12px;
+    text-decoration: none;
+    top: 70px;
+    right: 755px;
+    display: inline-block;
+    color: darkolivegreen;
+    position: absolute;
+
+}
+#menu a{
+    display:inline-block;
+    padding-right: 20px;
+    color: dimgrey;
+}
+
+#logo {
+    position: absolute;
+    top: 25px;
+    left: 50px;
+    height: 65px;
+    width: 199px;
+    z-index: 100;
+}
+#purse_woman {
+    height: 350px;
+    width: 710px;
+    position: absolute;
+    top: 200px;
+    right: 50px;
+
+}
+/*Filled height: 350px;
+    width: 710px; */
+
+#mainlinks {
+    font-family: Avenir Next, Arial;
+    font-size: 14px;
+    height: 200px;
+    width: 200px;
+    color: black;
+    position: absolute;
+    left: 500px;
+    top: 455px;
+    text-decoration: none;
+
+
+}
+
+
+a {
+    text-decoration: none;
+    color: steelblue;
+}
+
+a:hover {
+    color: darkolivegreen;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+
+#articlecolltitle {
+    position: absolute;
+    top: 200px;
+    left: 400px;
+    z-index: 101;
+}
+#articlecolltitlep2 {
+    position: absolute;
+    top: 230px;
+    left: 430px;
+    z-index: 100;
+}
+
+.productname {
+    font-family: Avenir Next, Arial;
+    font-size: 14px;
+    height: 20px;
+    width: 300px;
+    color: black;
+    font-weight: bold;
+
+}
+
+.collectiontitles {
+    font-family: Avenir Next, Arial;
+    font-size: 30px;
+    height: 40px;
+    width: 500px;
+    color: black;
+}
+
+#circle_bag {
+     height: 218px;
+     width: 130px;
+     position: absolute;
+     top: 700px;
+     left: 50px;
+    /*680 × 1074, 1/4th -50 + 10w */
+ }
+
+#cbtitle {
+    position: absolute;
+    top: 732px;
+    left: 218px;
+}
+
+#cbdes {
+    position: absolute;
+    height: 100px;
+    width: 200px;
+    top: 763px;
+    left: 219px;
+}
+
+
+#cuff {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 1000px;
+    left: 590px;
+
+
+}
+
+#purse {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 1400px;
+    right: 150px;
+
+
+}
+
+
+
+#cptitle {
+    position: absolute;
+    top: 1898px;
+    left: 509px;
+}
+
+#cpdes {
+    position: absolute;
+    height: 100px;
+    width: 200px;
+    top: 1921px;
+    left: 509px;
+
+
+}
+.productdescript {
+    font-family: "Avenir Next";
+    font-size: 10px;
+    color: black;
+}
+
+#ctitle {
+    position: absolute;
+    top: 1026px;
+    left: 761px;
+
+}
+
+#cdes {
+    position: absolute;
+    height: 100px;
+    width: 200px;
+    top: 1054px;
+    left: 761px;
+
+}
+
+#artefactcolltitle {
+    position: absolute;
+    top: 1420px;
+    left: 510px;
+    z-index: 101;
+}
+#artefactcolltitlep2 {
+    position: absolute;
+    top: 1450px;
+    left: 540px;
+    z-index: 100;
+}
+
+#back_bag_photo {
+    height: 350px;
+    width: 710px;
+    position: absolute;
+    top: 1400px;
+    left: 50px;
+
+}
+
+#coinpurse {
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    top: 1822px;
+    left: 302px;
+}
+
+#articlemore {
+    right: 0px;
+    top: 1084px;
+
+}
+
+
+#cardholder {
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    top: 2089px;
+    left: 626px;
+}
+
+#cardholdertitle {
+    position: absolute;
+    top: 2160px;
+    left: 837px;
+}
+
+#cardholderdes {
+    position: absolute;
+    height: 100px;
+    width: 200px;
+    top: 2188px;
+    left: 837px;
+}
+
+
+.moreproducts {
+    font-family: Avenir Next;
+    position: absolute;
+    transform-origin: 0px, 0px;
+    transform: rotate(-90deg);
+    font-size: 12px;
+}
+
+#artefactmore {
+    right: 540px;
+    top: 1646px;
+
+}
+
+
+#alchemycolltitle {
+    position: absolute;
+    top: 2490px;
+    left: 420px;
+}
+#alchemycolltitlep2 {
+    position: absolute;
+    top: 2520px;
+    left: 450px;
+}
+
+
+
+#workshopvideo {
+    width: 694px;
+    height: 333px;
+    position: absolute;
+    top: 2500px;
+    right: 50px;
+    /* 1948 x1066, -80 width*/
+}
+
+
+
+#fire {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 2989px;
+    left: 216px;
+}
+#firetitle {
+    position: absolute;
+    top: 3020px;
+    left: 368px;
+}
+
+
+#firedes {
+    position: absolute;
+    height: 100px;
+    width: 200px;
+    top: 3050px;
+    left: 368px;
+
+}
+
+#healing {
+    height: 230px;
+    width: 230px;
+    position: absolute;
+    top: 3305px;
+    right: 468px;
+}
+#healingtitle {
+    position: absolute;
+    top: 3364px;
+    right: 250px;
+}
+
+
+#healingdes {
+    position: absolute;
+    height: 100px;
+    width: 200px;
+    top: 3395px;
+    right: 350px;
+
+}
+
+
+#artefactmore {
+    right: 540px;
+    top: 1646px;
+
+}
+
+#alchemymore {
+    right: 50px;
+    top: 3395px;
+
+}
+
+
+#graybottombox {
+    width: 1440px;
+    height: 300px;
+    position: absolute;
+    left: 0px;
+    top: 3700px;
+    background-color: wheat;
+    color: white;
+    font-family: Avenir Avenir Next Condensed, Arial;
+
+}
+/* green bg i liked #A9D3C2 */
+
+#logobottom {
+    width:  160px;
+    height: 50px;
+    position: absolute;
+    left: 100px;
+    top: 40px;
+    color: white;
+
+}
+
+#threelinks {
+    width:  200px;
+    height: 200px;
+    position: absolute;
+    left: 390px;
+    top: 40px;
+    color: dimgray;
+    background-color: transparent;
+
+}
+
+#linksrow2 {
+    width:  200px;
+    height: 200px;
+    position: absolute;
+    left: 720px;
+    top: 40px;
+    color: dimgray;
+    background-color: transparent;
+
+}
+
+#linksrow3 {
+    width:  200px;
+    height: 200px;
+    position: absolute;
+    left: 1060px;
+    top: 40px;
+    color: dimgray;
+    background-color: transparent;
+
+}
+
+.bottomlinks {
+    font-family: Avenir Next Condensed,arial;
+    font-size: 12px;
+}
+
+.menu {
+    display: block;
+    width: 50px;
+    height: 50px;
+    background: red;
+}

@@ -1,0 +1,450 @@
+body {
+    background-color: whitesmoke;
+    margin: 0;
+}
+
+html,body {
+    width: 100%;
+    height: 100%;
+}
+
+
+a {
+    text-decoration: none;
+    color: steelblue;
+    font-family: Avenir Next, Arial;
+    font-size: 12px;
+}
+
+a:hover {
+    color: darkolivegreen;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.content {
+    width: 100%;
+    height: 100%;
+}
+
+#menu {
+    font-family: Avenir Next, Arial;
+    font-size: 12px;
+    text-decoration: none;
+    top: 70px;
+    right: 755px;
+    display: inline-block;
+    color: darkolivegreen;
+    position: absolute;
+
+}
+#menu a{
+    display:inline-block;
+    padding-right: 20px;
+    color: dimgrey;
+}
+
+#logo {
+    position: absolute;
+    top: 25px;
+    left: 50px;
+    height: 65px;
+    width: 199px;
+    z-index: 100;
+}
+
+#staffpic {
+    position: relative;
+    top: 100px;
+    left: 0px;
+    width: 650px;
+    z-index: 2;
+    height: 475px;
+    opacity: .9;
+}
+
+/* 2038 × 1146, was 160 top and 50 left */
+
+#theunseentitle {
+    height: 500px;
+    width: 300px;
+    position: absolute;
+    left: 670px;
+    top: 490px;
+}
+
+
+
+#unseeninfo {
+    height: 300px;
+    width: 190px;
+    position: absolute;
+    top: 540px;
+    left: 670px;
+    z-index: 3;
+
+}
+
+.paraboxes {
+    font-family: Avenir Next Condensed, Arial;
+    color: black;
+    background-color: transparent;
+    font-size: 12px;
+}
+
+.paraboxessmall {
+    font-family: Avenir Next Condensed, Arial;
+    color: black;
+    background-color: transparent;
+    font-size: 12px;
+}
+
+
+#extraunseeninfo {
+    position: absolute;
+    top:  605px;
+    left: 50px;
+    z-index: 55;
+    width: 200px;
+    height: 300px;
+
+}
+
+.redgradboxes {
+    background: linear-gradient(to left, transparent, #933824);
+
+}
+#redgrad1 {
+    position: absolute;
+    height: 340px;
+    width: 400px;
+    top: 950px;
+    right: 95px;
+    z-index: 25;
+    opacity: .5;
+}
+
+#womanwithpurse {
+
+    width: 550px;
+    height: 320px;
+    position: absolute;
+    right: 65px;
+    top: 1000px;
+    z-index: 26;
+}
+/* width: 950px;
+    height: 520px; */
+
+#unseenshoptitle {
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    right: 195px;
+    top: 1163px;
+    z-index:27;
+}
+
+.titleboxes {
+    font-family: Avenir Next Condensed, Arial;
+    color: black;
+    background-color: transparent;
+    font-size: 25px;
+}
+
+#artcolltitle {
+    height: 500px;
+    width: 300px;
+    position: absolute;
+    left: 80px;
+    top: 1500px;
+
+}
+
+#bluegrad1 {
+    position: absolute;
+    height: 300px;
+    width: 650px;
+    top: 1620px;
+    left: 50px;
+    z-index: 20;
+}
+
+.bluegradboxes {
+    background: linear-gradient(to right,transparent, #25739A);
+    opacity: .5;
+
+}
+
+#rucksack1 {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 25px;
+    top: 1650px;
+    z-index: 21;
+
+}
+
+#iphone1 {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 250px;
+    top: 1760px;
+    z-index: 22;
+
+}
+
+#wallet1 {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 470px;
+    top: 1900px;
+    z-index: 23;
+
+}
+
+#rucksack {
+    position: absolute;
+    top: 1710px;
+    left: 100px;
+
+}
+#phonecover {
+    position: absolute;
+    top: 1820px;
+    left: 315px;
+
+}
+#wallet {
+    position: absolute;
+    top: 1960px;
+    left: 550px;
+
+}
+
+
+.linktext {
+    color: black;
+    font-family: Avenir Next Condensed, Arial;
+    font-size: 12px;
+
+}
+
+#seeprevcoll {
+    height: 30px;
+    width: 500px;
+    position: absolute;
+    left: 80px;
+    top: 1930px;
+
+}
+
+
+#exhibitions {
+    height: 310px;
+    width: 300px;
+    position: absolute;
+    right: 50px;
+    top: 2250px;
+
+}
+
+#greengrad1{
+    position: absolute;
+    height: 320px;
+    width: 420px;
+    top: 2300px;
+    right: 65px;
+}
+
+.greengradboxes {
+    background: linear-gradient(to left, transparent, green);
+    opacity: .5;
+}
+
+#exhibitionvideo {
+    position: absolute;
+    right: 65px;
+    top: 2750px;
+    border: none;
+
+}
+
+.productnames {
+    color: black;
+    font-family: Avenir Next Condensed, Arial;
+    font-size: 16px;
+}
+
+#eighthsense {
+    font-family: Avenir Avenir Next Condensed, Arial;
+    font-size: 20px;
+    color: black;
+    position: absolute;
+    top: 2775px;
+    right: 725px;
+}
+
+#eighthsensepara {
+    font-family: Avenir Avenir Next Condensed, Arial;
+    font-size: 12px;
+    color: black;
+    position: absolute;
+    top: 2825px;
+    right: 700px;
+    width: 200px;
+    height: 200px
+}
+
+#exhiblink {
+    font-family: Avenir Avenir Next Condensed, Arial;
+    position: absolute;
+    top: 2935px;
+    right: 600px;
+    width: 300px;
+    height: 200px
+
+}
+
+
+#workshopvideo {
+    position: absolute;
+    top: 3810px;
+    left: 50px;
+    border: none;
+}
+
+#workshoptitle {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 3180px;
+    left: 50px;
+}
+
+
+
+#redgrad2 {
+    position: absolute;
+    height: 300px;
+    width: 500px;
+    top: 3250px;
+    left: 100px;
+    background: linear-gradient(to right, transparent, #933824);
+    opacity: .5;
+
+}
+
+
+#alcworkshop {
+    font-family: Avenir Avenir Next Condensed, Arial;
+    font-size: 20px;
+    color: black;
+    position: absolute;
+    top: 3700px;
+    left: 450px;
+}
+
+#attendlink {
+    font-family: Avenir Avenir Next Condensed, Arial;
+    position: absolute;
+    top: 3750px;
+    left: 575px;
+    width: 300px;
+    height: 200px
+}
+
+#graybottombox {
+    width: 1440px;
+    height: 300px;
+    position: absolute;
+    left: 0px;
+    top: 4000px;
+    background-color: tan;
+    color: white;
+    font-family: Avenir Avenir Next Condensed, Arial;
+
+}
+
+#logobottom {
+    width:  160px;
+    height: 50px;
+    position: absolute;
+    left: 100px;
+    top: 40px;
+    color: white;
+
+}
+
+#threelinks {
+    width:  200px;
+    height: 200px;
+    position: absolute;
+    left: 390px;
+    top: 40px;
+    color: dimgray;
+    background-color: transparent;
+
+}
+
+#linksrow2 {
+    width:  200px;
+    height: 200px;
+    position: absolute;
+    left: 720px;
+    top: 40px;
+    color: dimgray;
+    background-color: transparent;
+
+}
+
+#linksrow3 {
+    width:  200px;
+    height: 200px;
+    position: absolute;
+    left: 1060px;
+    top: 40px;
+    color: dimgray;
+    background-color: transparent;
+
+}
+
+.bottomlinks {
+    font-family: Avenir Next Condensed,arial;
+    font-size: 12px;
+}
+
+.menu {
+    display: block;
+    width: 50px;
+    height: 50px;
+    background: red;
+}
+
+
+/* All CSS styles go here */
+
+.button {
+    width: 50px;
+    height: 50px;
+    background-image: url(images/Untitled-1.png);
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.menu {
+    width: 140px;
+    height: 650px;
+    background: gray;
+    position: absolute;
+    top: 200px;
+    display: none;
+}
+
+.red {
+    background: red;
+}
